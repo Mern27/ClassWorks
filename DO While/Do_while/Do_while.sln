@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Do_while", "Do_while\Do_while.vfproj", "{AE0A1AFC-D630-41B3-AF06-136A80E35C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0A1AFC-D630-41B3-AF06-136A80E35C3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE0A1AFC-D630-41B3-AF06-136A80E35C3C}.Debug|Win32.Build.0 = Debug|Win32
+		{AE0A1AFC-D630-41B3-AF06-136A80E35C3C}.Release|Win32.ActiveCfg = Release|Win32
+		{AE0A1AFC-D630-41B3-AF06-136A80E35C3C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

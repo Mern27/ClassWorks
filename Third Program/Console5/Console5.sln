@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Console5", "Console5\Console5.vfproj", "{A688C1ED-4B28-49FD-A40E-E57245CB220D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A688C1ED-4B28-49FD-A40E-E57245CB220D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A688C1ED-4B28-49FD-A40E-E57245CB220D}.Debug|Win32.Build.0 = Debug|Win32
+		{A688C1ED-4B28-49FD-A40E-E57245CB220D}.Release|Win32.ActiveCfg = Release|Win32
+		{A688C1ED-4B28-49FD-A40E-E57245CB220D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

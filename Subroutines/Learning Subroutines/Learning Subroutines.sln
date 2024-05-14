@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Learning Subroutines", "Learning Subroutines\Learning Subroutines.vfproj", "{0B86D3AF-D925-48C7-AABB-D96D23442ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B86D3AF-D925-48C7-AABB-D96D23442ECB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0B86D3AF-D925-48C7-AABB-D96D23442ECB}.Debug|Win32.Build.0 = Debug|Win32
+		{0B86D3AF-D925-48C7-AABB-D96D23442ECB}.Release|Win32.ActiveCfg = Release|Win32
+		{0B86D3AF-D925-48C7-AABB-D96D23442ECB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
