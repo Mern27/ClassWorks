@@ -29,5 +29,6 @@
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
 		<File RelativePath=".\lesson1.f90"/>
 		<File RelativePath=".\lesson2.f90"/>
+		<File RelativePath=".\lesson3.f90"/>
 		<File RelativePath=".\main.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>

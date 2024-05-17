@@ -2,6 +2,6 @@ program Exam_rev
     
     implicit none
     
-    call lesson1
+    call lesson3
     
     end
